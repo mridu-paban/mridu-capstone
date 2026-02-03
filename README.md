@@ -1,2 +1,2 @@
-# mridu-capstone
-capstone repo
+# mridu-handson
+hands_on
